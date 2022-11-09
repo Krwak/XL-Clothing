@@ -8,6 +8,6 @@ XL winter boots, XL socks, XL wool socks and XL balaclava added for those huge m
 
 Added XL variants of leg warmers, arm warmers, long underwear bottom and top.
 
-Ski mask made to accomodate abnormally mutated anatomy.
+Ski mask made to accomodate abnormally large mutated anatomy.
 
 Wool foot rags have lower encumbrance.
