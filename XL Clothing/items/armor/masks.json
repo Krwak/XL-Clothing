@@ -1,0 +1,12 @@
+[
+  {
+    "id": "balclava_xl",
+    "type": "ARMOR",
+    "copy-from": "balclava",
+    "looks_like": "balclava",
+    "name": { "str": "XL balaclava" },
+    "description": "A warm head and face covering adjusted for mutated anatomy.",
+    "proportional": { "weight": 1.5, "volume": 1.5, "price": 1.5 },
+    "flags": [ "VARSIZE", "SKINTIGHT", "OVERSIZE" ]
+  }
+]

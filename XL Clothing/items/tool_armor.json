@@ -1,0 +1,56 @@
+[
+  {
+    "type": "TOOL_ARMOR",
+    "category": "clothing",
+    "id": "mask_ski",
+    "name": { "str": "ski mask" },
+    "weight": "86 g",
+    "color": "dark_gray",
+    "covers": [ "head", "mouth" ],
+    "use_action": {
+      "type": "transform",
+      "menu_text": "Loosen",
+      "msg": "You adjust your ski mask for less warmth.",
+      "target": "mask_ski_loose"
+    },
+    "symbol": "[",
+    "description": "A warm wool mask that protects the head and face from cold.  It has a full face opening that can be adjusted to set how much is exposed.",
+    "price": 1800,
+    "price_postapoc": 250,
+    "material": [ "wool" ],
+    "volume": "250 ml",
+    "warmth": 50,
+    "encumbrance": 10,
+    "flags": [ "VARSIZE", "SKINTIGHT", "OVERSIZE" ],
+    "coverage": 80,
+    "material_thickness": 3
+  },
+  {
+    "type": "TOOL_ARMOR",
+    "category": "clothing",
+    "id": "mask_ski_loose",
+    "repairs_like": "mask_ski",
+    "name": { "str": "ski mask (open)", "str_pl": "ski masks (open)" },
+    "weight": "86 g",
+    "color": "dark_gray",
+    "covers": [ "head", "mouth" ],
+    "use_action": {
+      "type": "transform",
+      "menu_text": "Tighten",
+      "msg": "You adjust your ski mask for more warmth.",
+      "target": "mask_ski"
+    },
+    "revert_to": "mask_ski",
+    "symbol": "[",
+    "description": "A warm wool mask that protects the head and face from cold.  It has a full face opening that can be adjusted to set how much is exposed.",
+    "price": 1800,
+    "price_postapoc": 250,
+    "material": [ "wool" ],
+    "volume": "250 ml",
+    "warmth": 30,
+    "encumbrance": 10,
+    "flags": [ "VARSIZE", "SKINTIGHT", "OVERSIZE", "ALLOWS_NATURAL_ATTACKS" ],
+    "coverage": 60,
+    "material_thickness": 3
+  }
+]

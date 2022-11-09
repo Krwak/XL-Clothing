@@ -1,0 +1,20 @@
+[
+  {
+    "result": "socks_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "components": [ [ [ "rag", 3 ] ] ]
+  },
+  {
+    "result": "socks_wool_xl",
+    "type": "recipe",
+    "copy-from": "socks_wool",
+    "components": [ [ [ "yarn", 112 ] ] ]
+  },
+  {
+    "result": "boots_winter_xl",
+    "type": "recipe",
+    "copy-from": "boots_winter",
+    "components": [ [ [ "felt_patch", 30 ] ], [ [ "bag_plastic", 12 ] ] ]
+  }
+]

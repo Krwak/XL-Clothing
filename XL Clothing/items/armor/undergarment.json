@@ -1,0 +1,39 @@
+[
+  {
+    "id": "leg_warmers_xl",
+    "type": "ARMOR",
+    "copy-from": "leg_warmers",
+    "name": { "str": "pair of XL leg warmers", "str_pl": "pairs of XL leg warmers" },
+    "description": "Large, soft, snug cloth sleeves to keep your exotic anatomy warm.",
+    "proportional": { "weight": 1.5, "volume": 1.5, "price": 1.5 },
+    "weight": "50 g",
+    "flags": [ "VARSIZE", "SKINTIGHT", "OVERSIZE" ]
+  },
+  {
+    "id": "arm_warmers_xl",
+    "type": "ARMOR",
+    "copy-from": "arm_warmers",
+    "name": { "str": "pair of XL arm warmers", "str_pl": "pairs of XL arm warmers" },
+    "description": "Snug, soft cloth sleeves to keep your exotic anatomy warm.",
+    "proportional": { "weight": 1.5, "volume": 1.5, "price": 1.5 },
+    "flags": [ "VARSIZE", "SKINTIGHT", "OVERSIZE" ]
+  },
+  {
+    "id": "long_underpants_xl",
+    "type": "ARMOR",
+    "copy-from": "long_underpants",
+    "name": { "str": "XL long underwear bottom" },
+    "description": "A pair of long XL underwear that help to maintain body temperature.",
+    "proportional": { "weight": 1.5, "volume": 1.5, "price": 1.5 },
+    "flags": [ "VARSIZE", "SKINTIGHT", "OVERSIZE" ]
+  },
+  {
+    "id": "long_undertop_xl",
+    "type": "ARMOR",
+    "copy-from": "long_undertop",
+    "name": { "str": "XL long underwear top" },
+    "description": "A long XL underwear top that helps to maintain body temperature.",
+    "proportional": { "weight": 1.5, "volume": 1.5, "price": 1.5 },
+    "flags": [ "VARSIZE", "SKINTIGHT", "OVERSIZE" ]
+  }
+]

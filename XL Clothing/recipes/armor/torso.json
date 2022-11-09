@@ -1,0 +1,8 @@
+[
+  {
+    "result": "long_undertop_xl",
+    "type": "recipe",
+    "copy-from": "long_undertop",
+    "components": [ [ [ "rag", 15 ] ] ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "result": "arm_warmers_xl",
+    "type": "recipe",
+    "copy-from": "arm_warmers",
+    "components": [ [ [ "rag", 6 ] ] ]
+  },
+  {
+    "result": "stockings_tent_arms_wool",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_ARMS",
+    "skill_used": "tailor",
+    "difficulty": 1,
+    "time": "2 h",
+    "autolearn": true,
+    "qualities": [ { "id": "KNIT", "level": 1 } ],
+    "components": [ [ [ "yarn", 300 ] ] ]
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "result": "balclava_xl",
+    "type": "recipe",
+    "copy-from": "balclava",
+    "components": [ [ [ "rag", 6 ] ] ]
+  }
+]

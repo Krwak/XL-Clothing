@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "XL_clothing",
+    "name": "XL clothing",
+    "authors": [ "Krwak" ],
+    "maintainers": [ "Krwak" ],
+    "description": "Adds a few winter items for mutants and buffs XL variants of armors to normal levels.",
+    "category": "items",
+    "dependencies": [ "bn" ]
+  }  
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "result": "long_underpants_xl",
+    "type": "recipe",
+    "copy-from": "long_underpants",
+    "components": [ [ [ "rag", 15 ] ] ]
+  },
+  {
+    "result": "stockings_tent_legs_wool",
+    "type": "recipe",
+    "id_suffix": "from_stockings",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_LEGS",
+    "skill_used": "tailor",
+    "difficulty": 1,
+    "time": "2 h",
+    "autolearn": true,
+    "qualities": [ { "id": "KNIT", "level": 1 } ],
+    "components": [ [ [ "yarn", 300 ] ] ]
+  }
+]

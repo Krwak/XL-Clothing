@@ -1,0 +1,22 @@
+[
+  {
+    "id": "footrags_wool",
+    "type": "ARMOR",
+    "name": { "str": "pair of wool foot wraps", "str_pl": "pairs of wool foot wraps" },
+    "description": "Felt patches tied around your feet.  Not much of an improvement over being barefoot, still better than nothing.",
+    "weight": "56 g",
+    "volume": "250 ml",
+    "price": 500,
+    "price_postapoc": 50,
+    "material": [ "wool" ],
+    "symbol": "[",
+    "looks_like": "socks_wool",
+    "color": "blue",
+    "covers": [ "feet" ],
+    "coverage": 65,
+    "encumbrance": 2,
+    "warmth": 15,
+    "material_thickness": 1,
+    "flags": [ "SKINTIGHT", "OVERSIZE", "ALLOWS_NATURAL_ATTACKS" ]
+  }
+]
