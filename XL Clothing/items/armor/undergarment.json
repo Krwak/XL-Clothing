@@ -6,7 +6,6 @@
     "name": { "str": "pair of XL leg warmers", "str_pl": "pairs of XL leg warmers" },
     "description": "Large, soft, snug cloth sleeves to keep your exotic anatomy warm.",
     "proportional": { "weight": 1.5, "volume": 1.5, "price": 1.5 },
-    "weight": "50 g",
     "flags": [ "VARSIZE", "SKINTIGHT", "OVERSIZE" ]
   },
   {
