@@ -4,5 +4,11 @@
     "type": "recipe",
     "copy-from": "balclava",
     "components": [ [ [ "rag", 6 ] ] ]
+  },
+  {
+    "result": "hood_xlfsurvivor",
+    "type": "recipe",
+	"copy-from": "hood_fsurvivor",
+    "components": [ [ [ "nomex", 12 ] ], [ [ "kevlar_plate", 6 ] ], [ [ "nomex_hood", 1 ] ], [ [ "duct_tape", 150 ] ] ]
   }
 ]
