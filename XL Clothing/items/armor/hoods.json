@@ -1,0 +1,24 @@
+[
+  {
+    "id": "hood_xlfsurvivor",
+    "type": "ARMOR",
+	"copy-from": "hood_fsurvivor",
+    "name": { "str": "XL survivor firehood" },
+    "description": "A massive customized, armored Nomex and Kevlar hood, very strong and durable.",
+	"proportional": { "weight": 1.5, "volume": 1.5, "price": 1.5 },
+    "encumbrance": 40,
+    "flags": [ "OVERSIZE", "VARSIZE", "WATERPROOF", "STURDY", "OUTER", "HELMET_COMPAT" ]
+  },
+  {
+    "id": "hood_xlsurvivor",
+    "type": "ARMOR",
+	"copy-from": "hood_survivor",
+    "name": { "str": "XL survivor hood" },
+    "description": "A massive customized, heavily armored leather and Kevlar hood, designed to provide comfort and protection from harm.",
+    "weight": "1640 g",
+    "volume": "4500 ml",
+    "encumbrance": 40,
+    "techniques": [ "WBLOCK_1" ],
+    "flags": [ "OVERSIZE", "VARSIZE", "WATERPROOF", "STURDY", "OUTER", "HELMET_COMPAT" ]
+  }
+]
